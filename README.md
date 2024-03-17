@@ -17,7 +17,7 @@ Repositori ini berisi contoh-contoh sederhana untuk belajar dasar-dasar pemrogra
 
 ### Operator
 
-![Operator](./image/operator.png)
+![Operator](./image/Operator.png)
 
 - Contoh penggunaan operator dalam PHP, termasuk operator aritmatika dan operator penugasan.
 - Demonstrasi penggunaan operator untuk menghitung gaji yang dibawa pulang setelah dipotong pajak.
